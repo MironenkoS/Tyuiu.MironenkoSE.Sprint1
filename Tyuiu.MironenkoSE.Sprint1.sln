@@ -5,11 +5,11 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{A8F56D34-6643-4A6C-99D5-05B4BD2B2B07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint1.V6", "Tyuiu.MironenkoSE.Sprint1.V6\Tyuiu.MironenkoSE.Sprint1.V6.csproj", "{E160435F-CA62-4119-A06F-4732F0E356EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint1.Task0.V6", "Tyuiu.MironenkoSE.Sprint1.V6\Tyuiu.MironenkoSE.Sprint1.Task0.V6.csproj", "{E160435F-CA62-4119-A06F-4732F0E356EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint1.V6.Lib2", "Tyuiu.MironenkoSE.Sprint1.V6.Lib2\Tyuiu.MironenkoSE.Sprint1.V6.Lib2.csproj", "{0847B9B7-3B73-44D7-AC08-C7411CA083B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint1.Task0.V6.Lib2", "Tyuiu.MironenkoSE.Sprint1.V6.Lib2\Tyuiu.MironenkoSE.Sprint1.Task0.V6.Lib2.csproj", "{0847B9B7-3B73-44D7-AC08-C7411CA083B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint1.V6.Test2", "Tyuiu.MironenkoSE.Sprint1.V6.Test2\Tyuiu.MironenkoSE.Sprint1.V6.Test2.csproj", "{441D77D0-628E-4B79-8CA8-7D6F56981E41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint1.Task0.V6.Test2", "Tyuiu.MironenkoSE.Sprint1.V6.Test2\Tyuiu.MironenkoSE.Sprint1.Task0.V6.Test2.csproj", "{441D77D0-628E-4B79-8CA8-7D6F56981E41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
