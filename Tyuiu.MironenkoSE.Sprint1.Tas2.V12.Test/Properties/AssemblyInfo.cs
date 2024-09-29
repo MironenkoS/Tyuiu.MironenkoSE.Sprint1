@@ -2,18 +2,18 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Tyuiu.MironenkoSE.Sprint1.V6.Test2")]
+[assembly: AssemblyTitle("Tyuiu.MironenkoSE.Sprint1.Tas2.V12.Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tyuiu.MironenkoSE.Sprint1.V6.Test2")]
+[assembly: AssemblyProduct("Tyuiu.MironenkoSE.Sprint1.Tas2.V12.Test")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("441d77d0-628e-4b79-8ca8-7d6f56981e41")]
+[assembly: Guid("9839d9e3-dfb8-4428-8ba9-457de860fc08")]
 
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]

@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-
-namespace Tyuiu.MironenkoSE.Sprint1.V6.Test
+using Tyuiu.MironenkoSE.Sprint1.V6.Lib2;
+namespace Tyuiu.MironenkoSE.Sprint1.V6.Test2
 {
     [TestClass]
     public class DataServiceTest
@@ -9,6 +9,9 @@ namespace Tyuiu.MironenkoSE.Sprint1.V6.Test
         [TestMethod]
         public void TestMethod1()
         {
+            DataService ds= new DataService();
+            var res = ds.Calculate();
+            Assert.AreEqual(21,res);
         }
     }
 }
